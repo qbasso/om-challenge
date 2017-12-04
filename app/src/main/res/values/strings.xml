@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OmiseChallenge</string>
+    <string name="label_charity">Charity List</string>
+    <string name="label_donate">Donate</string>
+    <string name="submit">Submit</string>
+    <string name="amount_to_donate">Amount to donate</string>
+    <string name="currencySymbol">THB</string>
+    <string name="error_amount">Please input correct amount</string>
+    <string name="label_card_details">Card Details</string>
+    <string name="donation_successfull">Donation successfull!</string>
+    <string name="ok">Ok</string>
+    <string name="error_network">Network connection problem</string>
+    <string name="no_charities_found">No charities found!</string>
+</resources>
